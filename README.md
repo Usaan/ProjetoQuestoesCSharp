@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=csharp)">
+  <img src="https://skillicons.dev/icons?i=c#)">
   <br/>
   <br/>
 </div>
