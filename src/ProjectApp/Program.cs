@@ -61,7 +61,7 @@ class Program
         {
             case 1:
                 Console.Clear();
-                Produto p1 = new("Notebook Gamer", 3499.99m);
+                Produto p1 = new("Notebook Gamer", 3499.00m);
                 p1.ExibirProduto();
                 Console.ReadKey();
                 break;
