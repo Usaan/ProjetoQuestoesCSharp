@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs)">
+  <img src="https://skillicons.dev/icons?i=cs">
   <br/>
   <br/>
 </div>
