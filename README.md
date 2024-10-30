@@ -144,3 +144,34 @@
     99. Implemente um programa que calcula a soma dos quadrados dos números de 1 a N.
     100. Crie um jogo simples de "Forca" onde o usuário tenta adivinhar uma palavra em até 5
     tentativas.
+
+## Rodando localmente
+
+Clone o repositório do projeto
+
+```bash
+  git clone https://github.com/Usaan/ProjetoQuestoesCSharp.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd ProjetoQuestoesCSharp
+```
+
+Instale as dependências
+
+```bash
+  dotnet restore
+```
+
+Compile o projeto
+
+```bash
+  dotnet build
+```
+Execute o projeto
+
+```bash
+  dotnet run
+```
