@@ -15,7 +15,7 @@
 ---
 
 # Autor
-- @Usaan - Gabriel Antonio Assunção Oliveira.
+- [@Usaan](https://github.com/Usaan) - Gabriel Antonio Assunção Oliveira.
 
 
 # Lista das questões implementadas:
